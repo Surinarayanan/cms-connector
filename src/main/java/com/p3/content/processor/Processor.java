@@ -9,6 +9,8 @@ import org.slf4j.LoggerFactory;
 
 import java.io.*;
 import java.util.*;
+import java.util.function.Function;
+import java.util.stream.Collectors;
 
 import static com.p3.content.constants.CmodConstants.STAR_CONSTANTS;
 
@@ -28,15 +30,8 @@ public class Processor {
 
   public void start() throws FileNotFoundException {
     Map<CMODTableType, WriterBean> writerBeansMap = new LinkedHashMap<>();
-    Map<CMODTableType, ConfigBean> tableMappingDetails = new LinkedHashMap<>();
-    tableMappingDetails.put(
-        CMODTableType.MASTER_INFO, ConfigBean.builder().startPoint(0).endPoint(3).build());
-    tableMappingDetails.put(
-        CMODTableType.LOAN_RECONCILIATION,
-        ConfigBean.builder().startPoint(170).endPoint(188).build());
-    tableMappingDetails.put(
-        CMODTableType.SAVINGS_RECONCILIATION,
-        ConfigBean.builder().startPoint(191).endPoint(205).build());
+    Map<CMODTableType, ConfigBean> tableMappingDetails = Arrays.stream(CMODTableType.values())
+            .collect(Collectors.toMap(key->key, value->value.getConfigBean()));
     createWriterBeanList(tableMappingDetails, writerBeansMap);
     Map<String, List<String>> branchDetailsMap = new LinkedHashMap<>();
     try (BufferedReader bufferedReader = new BufferedReader(new FileReader(filePath))) {
