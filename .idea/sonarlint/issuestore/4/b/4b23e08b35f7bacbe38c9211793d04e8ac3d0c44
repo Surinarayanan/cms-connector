@@ -1,0 +1,15 @@
+
+z	java:S135/"YReduce the total number of break and continue statements in this loop to use at most one.(íÕŒ¦øÿÿÿÿ8üÀ‘Û1
+w	java:S116"[Rename this field "MAX_BRANCH_COUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê»ï8ÚüÀ‘Û1
+
+java:S4144Ç"kUpdate this method so that its implementation is not identical to "processLOAN_RECONCILIATION" on line 171.(öªŞÍûÿÿÿÿ8ÛüÀ‘Û1
+Y	java:S125€"<This block of commented-out lines of code should be removed.(ê´´8ãüÀ‘Û1
+:
+java:S6205ˆ"Remove this redundant block.(ÍåÀ¢8äüÀ‘Û1
+?
+java:S6205‹"Remove this redundant block.(ç•Ë‹ıÿÿÿÿ8äüÀ‘Û1
+9
+java:S6205"Remove this redundant block.(¸ÖÈ68äüÀ‘Û1
+p	java:S100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿·™‚úÿÿÿÿ8äüÀ‘Û1
+k	java:S100«"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÛ‹”8æüÀ‘Û1
+p	java:S100Ç"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öªŞÍûÿÿÿÿ8çüÀ‘Û1

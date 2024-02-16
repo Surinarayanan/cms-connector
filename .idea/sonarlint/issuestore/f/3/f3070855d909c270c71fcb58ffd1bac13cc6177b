@@ -1,0 +1,15 @@
+
+c
+java:S1226"AIntroduce a new variable instead of reusing the parameter "args".(¬®ıÿÿÿÿÿ8²‹Ê™Û1
+I
+java:S3416"'Update this logger to use "Main.class".(Ç©Ó‡şÿÿÿÿ8µ‹Ê™Û1
+˜
+java:S1130"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(òá–İıÿÿÿÿ8·‹Ê™Û1
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(š¤÷ùıÿÿÿÿ8¸‹Ê™Û1
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Ï¦¢Ÿıÿÿÿÿ8¸‹Ê™Û1
+]	java:S125"<This block of commented-out lines of code should be removed.(ß³Ë°üÿÿÿÿ8¸‹Ê™Û1
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(‰¥¥šûÿÿÿÿ8¸‹Ê™Û1
+]	java:S125"<This block of commented-out lines of code should be removed.(şÏôøÿÿÿÿ8¸‹Ê™Û1

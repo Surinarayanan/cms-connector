@@ -1,0 +1,3044 @@
+[
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "ENTERED",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "GENERATED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "AUTOMATIC LOAN",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "LOAN OVERPAYMENT",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "FEES ASSESSED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INTEREST CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INSURANCE 1 CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INSURANCE 2 CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "AUTOMATIC PAYMENT",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "CLOSING ADJUSTMENT",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "LOAN EXTENSION CHARGES",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "CAPITALIZED INTEREST",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INTERBRANCH TRANSFER",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL GENERATED",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "POSTED TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "UNPOSTED TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "ENTERED",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "GENERATED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "AUTOMATIC LOAN",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "LOAN OVERPAYMENT",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "FEES ASSESSED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INTEREST CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INSURANCE 1 CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INSURANCE 2 CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "AUTOMATIC PAYMENT",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "CLOSING ADJUSTMENT",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "LOAN EXTENSION CHARGES",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "CAPITALIZED INTEREST",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INTERBRANCH TRANSFER",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL GENERATED",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "POSTED TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "UNPOSTED TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "ENTERED",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "GENERATED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "AUTOMATIC LOAN",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "LOAN OVERPAYMENT",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "FEES ASSESSED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INTEREST CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INSURANCE 1 CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INSURANCE 2 CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "AUTOMATIC PAYMENT",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "CLOSING ADJUSTMENT",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "LOAN EXTENSION CHARGES",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "CAPITALIZED INTEREST",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INTERBRANCH TRANSFER",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL GENERATED",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "POSTED TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "UNPOSTED TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "ENTERED",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "GENERATED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "AUTOMATIC LOAN",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "LOAN OVERPAYMENT",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "FEES ASSESSED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INTEREST CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INSURANCE 1 CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INSURANCE 2 CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "AUTOMATIC PAYMENT",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "CLOSING ADJUSTMENT",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "LOAN EXTENSION CHARGES",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "CAPITALIZED INTEREST",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INTERBRANCH TRANSFER",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL GENERATED",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "POSTED TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "UNPOSTED TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "ENTERED",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "GENERATED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "AUTOMATIC LOAN",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "LOAN OVERPAYMENT",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "FEES ASSESSED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INTEREST CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INSURANCE 1 CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INSURANCE 2 CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "AUTOMATIC PAYMENT",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "CLOSING ADJUSTMENT",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "LOAN EXTENSION CHARGES",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "CAPITALIZED INTEREST",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INTERBRANCH TRANSFER",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL GENERATED",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "POSTED TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "UNPOSTED TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "ENTERED",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "GENERATED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "AUTOMATIC LOAN",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "LOAN OVERPAYMENT",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "FEES ASSESSED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INTEREST CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INSURANCE 1 CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INSURANCE 2 CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "AUTOMATIC PAYMENT",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "CLOSING ADJUSTMENT",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "LOAN EXTENSION CHARGES",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "CAPITALIZED INTEREST",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INTERBRANCH TRANSFER",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL GENERATED",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "POSTED TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "UNPOSTED TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "ENTERED",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "GENERATED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "AUTOMATIC LOAN",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "LOAN OVERPAYMENT",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "FEES ASSESSED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INTEREST CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INSURANCE 1 CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INSURANCE 2 CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "AUTOMATIC PAYMENT",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "CLOSING ADJUSTMENT",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "LOAN EXTENSION CHARGES",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "CAPITALIZED INTEREST",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INTERBRANCH TRANSFER",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL GENERATED",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "POSTED TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "UNPOSTED TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "ENTERED",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "GENERATED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "AUTOMATIC LOAN",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "LOAN OVERPAYMENT",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "FEES ASSESSED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INTEREST CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INSURANCE 1 CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INSURANCE 2 CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "AUTOMATIC PAYMENT",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "CLOSING ADJUSTMENT",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "LOAN EXTENSION CHARGES",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "CAPITALIZED INTEREST",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INTERBRANCH TRANSFER",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL GENERATED",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "POSTED TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "UNPOSTED TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "ENTERED",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "GENERATED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "AUTOMATIC LOAN",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "LOAN OVERPAYMENT",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "FEES ASSESSED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INTEREST CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INSURANCE 1 CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INSURANCE 2 CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "AUTOMATIC PAYMENT",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "CLOSING ADJUSTMENT",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "LOAN EXTENSION CHARGES",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "CAPITALIZED INTEREST",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INTERBRANCH TRANSFER",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL GENERATED",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "POSTED TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "UNPOSTED TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "ENTERED",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "GENERATED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "AUTOMATIC LOAN",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "LOAN OVERPAYMENT",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "FEES ASSESSED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INTEREST CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INSURANCE 1 CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INSURANCE 2 CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "AUTOMATIC PAYMENT",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "CLOSING ADJUSTMENT",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "LOAN EXTENSION CHARGES",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "CAPITALIZED INTEREST",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INTERBRANCH TRANSFER",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL GENERATED",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "POSTED TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "UNPOSTED TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "ENTERED",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "GENERATED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "AUTOMATIC LOAN",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "LOAN OVERPAYMENT",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "FEES ASSESSED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INTEREST CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INSURANCE 1 CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INSURANCE 2 CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "AUTOMATIC PAYMENT",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "CLOSING ADJUSTMENT",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "LOAN EXTENSION CHARGES",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "CAPITALIZED INTEREST",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INTERBRANCH TRANSFER",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL GENERATED",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "POSTED TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "UNPOSTED TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "ENTERED",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "GENERATED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "AUTOMATIC LOAN",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "LOAN OVERPAYMENT",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "FEES ASSESSED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INTEREST CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INSURANCE 1 CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INSURANCE 2 CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "AUTOMATIC PAYMENT",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "CLOSING ADJUSTMENT",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "LOAN EXTENSION CHARGES",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "CAPITALIZED INTEREST",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INTERBRANCH TRANSFER",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL GENERATED",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "POSTED TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "UNPOSTED TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "ENTERED",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "GENERATED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "AUTOMATIC LOAN",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "LOAN OVERPAYMENT",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "FEES ASSESSED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INTEREST CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INSURANCE 1 CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INSURANCE 2 CHARGED",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "AUTOMATIC PAYMENT",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "CLOSING ADJUSTMENT",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "LOAN EXTENSION CHARGES",
+        "LOAN_CREDITS_AMOUNT": "",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "CAPITALIZED INTEREST",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "INTERBRANCH TRANSFER",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL GENERATED",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "POSTED TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "UNPOSTED TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    },
+    {
+        
+        "CURRENCY": "001",
+        "LOAN_DEBITS_AMOUNT": "0.00",
+        "PROCESS_THRU": "28/10/2020",
+        "TITLE": "TOTAL TRANSACTIONS",
+        "LOAN_CREDITS_AMOUNT": "0.00",
+        "BRANCH": "021",
+        "LOAN_DEBITS_NUMBER": "0",
+        "PROCESS_DATE": "2020-10-28",
+        "LOAN_CREDITS_NUMBER": "0",
+        "BANK": "11"
+    }
+]

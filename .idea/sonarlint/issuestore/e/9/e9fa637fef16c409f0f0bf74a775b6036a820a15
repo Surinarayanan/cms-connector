@@ -1,0 +1,17 @@
+
+g	java:S112["FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ğ—šÛ1
+g	java:S112]"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ğ—šÛ1
+r	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–‡Ó¦ıÿÿÿÿ8Ğ—šÛ1
+a
+java:S2147\"DCombine this catch with the one at line 90, which has the same body.(ï­£Ä8Ñ—šÛ1
+c
+java:S1126u"AReplace this if-then-else statement by a single return statement.(ÕĞ¹Üüÿÿÿÿ8˜Ñ—šÛ1
+^	java:S125‡"<This block of commented-out lines of code should be removed.(“’´¶şÿÿÿÿ8™Ñ—šÛ1
+N
+java:S1128"1Remove this unused import 'com.google.gson.Gson'.(–§8™Ñ—šÛ1
+S
+java:S1128"6Remove this unused import 'com.google.gson.JsonArray'.(ÎöêŠ8™Ñ—šÛ1
+U
+java:S1128"8Remove this unused import 'com.google.gson.JsonElement'.(ğ†˜³8™Ñ—šÛ1
+U
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Í8™Ñ—šÛ1
