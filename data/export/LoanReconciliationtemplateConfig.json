@@ -1,0 +1,91 @@
+{
+  "template": "TABLE_TEMPLATE",
+  "table_coordinates": {
+    "x": 43,
+    "y": 190
+  },
+  "totalLines": 18,
+  "fields": [
+    {
+      "name": "PROCESS_DATE",
+      "coordinates": {
+        "x": 505,
+        "y": 775
+      },
+      "type": "NORMAL",
+      "nested": []
+    },
+    {
+      "name": "BANK",
+      "coordinates": {
+        "x": 75,
+        "y": 686
+      },
+      "type": "NORMAL",
+      "nested": []
+    },
+    {
+      "name": "BRANCH",
+      "coordinates": {
+        "x": 82,
+        "y": 666
+      },
+      "type": "NORMAL",
+      "nested": []
+    },
+    {
+      "name": "CURRENCY",
+      "type": "NORMAL",
+      "coordinates": {
+        "x": 89,
+        "y": 646
+      },
+      "nested": []
+    },
+    {
+      "name": "TITLE",
+      "coordinates": {
+        "x": 36,
+        "y": 560
+      },
+      "type": "TABLE_COLUMN",
+      "nested": []
+    },
+    {
+      "name": "LOAN_DEBITS_NUMBER",
+      "coordinates": {
+        "x": 184,
+        "y": 560
+      },
+      "type": "TABLE_COLUMN",
+      "nested": []
+    },
+    {
+      "name": "LOAN_DEBITS_AMOUNT",
+      "coordinates": {
+        "x": 283,
+        "y": 560
+      },
+      "type": "TABLE_COLUMN",
+      "nested": []
+    },
+    {
+      "name": "LOAN_CREDITS_NUMBER",
+      "coordinates": {
+        "x": 381,
+        "y": 560
+      },
+      "type": "TABLE_COLUMN",
+      "nested": []
+    },
+    {
+      "name": "LOAN_CREDITS_AMOUNT",
+      "coordinates": {
+        "x": 477,
+        "y": 560
+      },
+      "type": "TABLE_COLUMN",
+      "nested": []
+    }
+  ]
+}
