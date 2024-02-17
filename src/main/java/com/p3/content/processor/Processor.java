@@ -9,7 +9,6 @@ import org.slf4j.LoggerFactory;
 
 import java.io.*;
 import java.util.*;
-import java.util.function.Function;
 import java.util.stream.Collectors;
 
 import static com.p3.content.constants.CmodConstants.STAR_CONSTANTS;
@@ -34,7 +33,8 @@ public class Processor {
             .collect(Collectors.toMap(key->key, value->value.getConfigBean()));
     createWriterBeanList(tableMappingDetails, writerBeansMap);
     Map<String, List<String>> branchDetailsMap = new LinkedHashMap<>();
-    try (BufferedReader bufferedReader = new BufferedReader(new FileReader(filePath))) {
+    try (BufferedReader bufferedReader = new BufferedReader(new FileReader(filePath));
+        PrintWriter printWriter = new PrintWriter(new File(filePath).getParentFile().getAbsolutePath()+File.separator+"InputSizeFile.txt")) {
       List<String> branchDetails = new ArrayList<>();
       String line;
       int count = 0;
@@ -52,14 +52,14 @@ public class Processor {
         branchDetails.add(line);
         count++;
         if (count % MAX_BRANCH_COUNT == 0) {
-          processBankDetailsIntoTables(branchDetails, tableMappingDetails, writerBeansMap);
+          processBankDetailsIntoTables(branchDetails, tableMappingDetails, writerBeansMap,printWriter);
           branchDetailsMap.put(UUID.randomUUID().toString(), branchDetails);
           branchDetails.clear();
           count = 0;
         }
       }
       if (!branchDetails.isEmpty()) {
-        processBankDetailsIntoTables(branchDetails, tableMappingDetails, writerBeansMap);
+        processBankDetailsIntoTables(branchDetails, tableMappingDetails, writerBeansMap, printWriter);
         branchDetailsMap.put(UUID.randomUUID().toString(), branchDetails);
         branchDetails.clear();
         count = 0;
@@ -113,9 +113,9 @@ public class Processor {
   }
 
   private void processBankDetailsIntoTables(
-      List<String> branchDetails,
-      Map<CMODTableType, ConfigBean> tableMappingDetails,
-      Map<CMODTableType, WriterBean> writerBeansMap) {
+          List<String> branchDetails,
+          Map<CMODTableType, ConfigBean> tableMappingDetails,
+          Map<CMODTableType, WriterBean> writerBeansMap, PrintWriter printWriter) {
     if (!branchDetails.get(0).contains("DEMAND DEPOSIT ACCOUNTING")) {
       return;
     }
@@ -129,22 +129,22 @@ public class Processor {
       CMODTableType entryKey = beanEntry.getKey();
       switch (entryKey) {
         case MASTER_INFO -> {
-          masterKeyRecord = processMASTER_INFO(tableData, entryKey, writerBeansMap);
+          masterKeyRecord = processMASTER_INFO(tableData, entryKey, writerBeansMap,printWriter);
         }
         case LOAN_RECONCILIATION -> {
-          processLOAN_RECONCILIATION(tableData, writerBeansMap, masterKeyRecord, entryKey);
+          processLOAN_RECONCILIATION(tableData, writerBeansMap, masterKeyRecord, entryKey,printWriter);
         }
         case SAVINGS_RECONCILIATION -> {
-          processSAVINGS_RECONCILIATION(tableData, writerBeansMap, masterKeyRecord, entryKey);
+          processSAVINGS_RECONCILIATION(tableData, writerBeansMap, masterKeyRecord, entryKey,printWriter);
         }
       }
     }
   }
 
   private String processMASTER_INFO(
-      List<String> tableData,
-      CMODTableType cmodTableType,
-      Map<CMODTableType, WriterBean> writerBeansMap) {
+          List<String> tableData,
+          CMODTableType cmodTableType,
+          Map<CMODTableType, WriterBean> writerBeansMap, PrintWriter printWriter) {
     List<String> mainTableRecord = new ArrayList<>();
     List<String> mainTableKeyRecord = new ArrayList<>();
     for (ColumnInfo columnInfo : cmodTableType.getColumnList()) {
@@ -160,14 +160,18 @@ public class Processor {
     }
     String recordList = String.join(",", mainTableRecord);
     writerBeansMap.get(cmodTableType).getPrintWriter().append(recordList).append("\n");
+    // ToDO source
+    for (String tableDatum : tableData) {
+      printWriter.append(tableDatum).append("\n");
+    }
     return String.join(",", mainTableKeyRecord);
   }
 
   private void processLOAN_RECONCILIATION(
-      List<String> tableData,
-      Map<CMODTableType, WriterBean> writerBeansMap,
-      String masterKeyRecord,
-      CMODTableType cmodTableType) {
+          List<String> tableData,
+          Map<CMODTableType, WriterBean> writerBeansMap,
+          String masterKeyRecord,
+          CMODTableType cmodTableType, PrintWriter printWriter) {
     if (!tableData.get(0).contains("ENTERED")) {
       return;
     }
@@ -188,14 +192,17 @@ public class Processor {
           .append(",")
           .append(recordList)
           .append("\n");
+    }
+    for (String tableDatum : tableData) {
+      printWriter.append(tableDatum).append("\n");
     }
   }
 
   private void processSAVINGS_RECONCILIATION(
-      List<String> tableData,
-      Map<CMODTableType, WriterBean> writerBeansMap,
-      String masterKeyRecord,
-      CMODTableType cmodTableType) {
+          List<String> tableData,
+          Map<CMODTableType, WriterBean> writerBeansMap,
+          String masterKeyRecord,
+          CMODTableType cmodTableType, PrintWriter printWriter) {
     if (!tableData.get(0).contains("ENTERED")) {
       return;
     }
@@ -216,6 +223,9 @@ public class Processor {
           .append(",")
           .append(recordList)
           .append("\n");
+    }
+    for (String tableDatum : tableData) {
+      printWriter.append(tableDatum).append("\n");
     }
   }
 }

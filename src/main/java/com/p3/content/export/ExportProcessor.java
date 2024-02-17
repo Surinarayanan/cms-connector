@@ -74,7 +74,7 @@ public class ExportProcessor {
           } else {
             pageNumber++;
             addExtraPage(overlayPath, pdfFoot, templateConfigBean, output, map, pageNumber);
-            overlay_count = 0;
+            overlay_count = 1;
             y = beanEntry.getValue().getCoordinates().getY() - (overlay_count * 20);
             p.setFixedPosition(pageNumber, beanEntry.getValue().getCoordinates().getX(), y, 200);
             output.add(p);
@@ -83,7 +83,7 @@ public class ExportProcessor {
         if((i+1) % templateConfigBean.getTotalLines() ==0 && (inputMap.size() <i+1)){
           pageNumber++;
           addExtraPage(overlayPath, pdfFoot, templateConfigBean, output, map, pageNumber);
-          overlay_count = 0;
+          overlay_count = 1;
         }
         overlay_count++;
       }
